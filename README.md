@@ -22,7 +22,7 @@ The Amazon Clone project is an attempt to recreate the front end of the Amazon w
 - **CSS3**: For styling the content, including flexbox, grid layout, media queries, and advanced CSS properties.
 
 ## Screenshots
-![Amazon Clone Screenshot](.\Images\SS.png)
+![Amazon Clone Screenshot](image.png)
 
 ## Getting Started
 To view the project locally:
